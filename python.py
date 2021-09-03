@@ -4,4 +4,4 @@ print('Seearch something:')
 search = input()
 
 
-print wikipedia.summary("search")
+print (wikipedia.summary("search"))
